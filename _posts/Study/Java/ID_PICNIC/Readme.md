@@ -1,5 +1,5 @@
 ---
-title: "PICNIC_GROUP"
+title: "ID : PICNIC"
 date: 2020-01-06 20:39:28 -0400
 categories: jekyll update
 ---
@@ -38,8 +38,7 @@ categories: jekyll update
 
 소스코드
 
-
-package picnic;
+-package picnic;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;
@@ -106,3 +105,4 @@ public class PicnicTest {
 
 
 }
+-
