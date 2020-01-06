@@ -39,7 +39,8 @@ categories: jekyll update
 
 소스코드
 
-```package picnic;
+```java
+package picnic;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;
